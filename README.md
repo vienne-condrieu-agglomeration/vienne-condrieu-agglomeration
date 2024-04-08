@@ -1,6 +1,15 @@
 ### Vienne Condrieu Agglomération 👋
 
+### 📖 Présentations
 
+- [SIG Voisins #04 - 11 Avril 2024 - Vienne Condrieu Agglomération](https://vienne-condrieu-agglomeration.github.io/slideshows/20240411-sigvoisins/#/)
+
+#
+
+### 🚗 Waze For Cities
+ - [Scripts de traitement des données de Waze For Cities](https://github.com/vienne-condrieu-agglomeration/waze-for-cities-integration)
+
+#
 
 ### 📊 Statistiques
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vienne-condrieu-agglomeration&theme=radical)
